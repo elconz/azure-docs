@@ -124,7 +124,7 @@ In this section, you enable Azure AD single sign-on in the Azure portal and conf
 	| `https://za-api.mimecast.com/sso/<ACCOUNTCODE>`|
 	| `https://au-api.mimecast.com/sso/<ACCOUNTCODE>`|
 	| `https://jer-api.mimecast.com/sso/<ACCOUNTCODE>`|
-	|Where ACCOUNTCODE is your unique Mimecast account code as specified in the Administration | Account | Account Settings page of the Administration Console.|
+	|Where ACCOUNTCODE is your unique Mimecast account code as specified in the Administration Console.|
     ||                                                 
     
 	> [!NOTE] 
