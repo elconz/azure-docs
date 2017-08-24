@@ -119,10 +119,12 @@ In this section, you enable Azure AD single sign-on in the Azure portal and conf
 
     | |     
     | --- |
-	| `https://webmail-us.mimecast.com/sso/<companyname>`|
-	| `https://webmail-uk.mimecast.com/sso/<companyname>`|    
-	| `https://webmail-za.mimecast.com/sso/<companyname>`|
-	| `https://webmail.mimecast-offshore.com/sso/<companyname>`|
+	| `https://us-api.mimecast.com/sso/<ACCOUNTCODE>`|
+	| `https://eu-api.mimecast.com/sso/<ACCOUNTCODE>`|    
+	| `https://za-api.mimecast.com/sso/<ACCOUNTCODE>`|
+	| `https://au-api.mimecast.com/sso/<ACCOUNTCODE>`|
+	| `https://jer-api.mimecast.com/sso/<ACCOUNTCODE>`|
+	|Where ACCOUNTCODE is your unique Mimecast account code as specified in the Administration | Account | Account Settings page of the Administration Console.|
     ||                                                 
     
 	> [!NOTE] 
